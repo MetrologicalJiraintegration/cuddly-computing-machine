@@ -9,4 +9,4 @@ frfrrf
 rfrfr
 fixed
 nog x
-git commit -m "DEEZ-1
+git commit -m "DEEZ-1 #resolve" git push origin master
